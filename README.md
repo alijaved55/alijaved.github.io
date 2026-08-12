@@ -26,20 +26,20 @@ My current work focuses on building reliable interfaces between AI agents and ph
 ### MCP Server-Based Machine Commissioning
 Developing an **MCP-server-based framework for machine commissioning** with the goal of enabling AI agents to interact with, configure, validate, and operate hardware in a structured and safety-aware manner.
 
-### Safe Commissioning and Visual-Servo Operation of a Coplanar-Coil Magnetic Milli-Robot Platform
+## Publications
+
+**Safe Commissioning and Visual-Servo Operation of a Coplanar-Coil Magnetic Milli-Robot Platform**
 **Manuscript under review.** Current research addresses safe commissioning and vision-assisted operation of a magnetic milli-robot platform using a coplanar-coil actuation architecture.
 
-## Selected Publications
-
-### Link Adaptation Strategy for Underwater Acoustic Sensor Networks: A Machine Learning Approach
-**2023** · Sciendo · pp. 56–64  
+**Link Adaptation Strategy for Underwater Acoustic Sensor Networks: A Machine Learning Approach**
+2023 · Sciendo · pp. 56–64  
 [DOI: 10.2478/jsiot-2023-0006](https://doi.org/10.2478/jsiot-2023-0006)
 
-### Cost Benefit Based Analytical Study of Automatic Meter Reading (AMR) and Blind Meter Reading (BMR) used by PESCO (WAPDA)
-**2020** · 23rd iCoMET, Pakistan · pp. 1–7
+**Cost Benefit Based Analytical Study of Automatic Meter Reading (AMR) and Blind Meter Reading (BMR) used by PESCO (WAPDA)**
+2020 · 23rd iCoMET, Pakistan · pp. 1–7
 
-### Deep Neural Network based Supervised Speech Enhancement in Speech-Babble Noise
-**2018** · IEEE ICIS 2018 · Singapore
+**Deep Neural Network based Supervised Speech Enhancement in Speech-Babble Noise**
+2018 · IEEE ICIS 2018 · Singapore
 
 > For the latest publication record, see my [Google Scholar profile](https://scholar.google.com/citations?user=ZODmXgcAAAAJ&hl=en).
 
@@ -59,10 +59,10 @@ Python | C/C++ | MATLAB | Machine Learning | Neural Networks | Agentic Systems
 Embedded Systems | PLCs | Electronics Prototyping | Reverse Engineering
 
 **Electronics Design**  
-Proteus | NI Multisim | Ultiboard | PCB Design | Schematic Design
+COMSOL | Proteus | NI Multisim | Ultiboard | PCB Design | Schematic Design
 
 **Research & Engineering**  
-COMSOL | Machine Commissioning | Hardware Validation | Robotics | Visual Servoing | Experimental Prototyping | Laboratory Systems
+Machine Commissioning | Hardware Validation | Robotics | Visual Servoing | Experimental Prototyping | Laboratory Systems
 
 ## Education
 
